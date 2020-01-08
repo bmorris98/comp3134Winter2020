@@ -1,0 +1,30 @@
+-- Q1 --
+
+Q: What is the definition of server port?
+A: A communication endpoint of the server, allowing for use and transmissions.
+
+-- Q2 --
+
+Q: What is server port range?
+A: 0 to 65535 (but 0 to 1023 are reserved)
+
+-- Q3 --
+
+Q: How many bits does number above represent?
+A: 16
+
+-- Q4 --
+
+Q: State 10 common server ports
+A: 20 - FTP Data Transfer
+   21 - FTP Command Control
+   22 - SSH Secure Login
+   23 - Telnet
+   25 - SMTP
+   53 - DNS
+   80 - HTTP
+   110 - POP3
+   123 - NTP
+   443 - HTTP Secure
+
+(referencing wikipedia https://en.wikipedia.org/wiki/Port_(computer_networking))
