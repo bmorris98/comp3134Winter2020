@@ -1,0 +1,288 @@
+-- DOMAIN 1 --
+
+ Domain Information
+
+     Name: BETHMORRIS.COM
+    Internationalized Domain Name: BETHMORRIS.COM
+    Registry Domain ID: 612219796_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientTransferProhibited
+    Nameservers:
+
+    NS1.WEBSITEWAY.COM
+
+    NS2.WEBSITEWAY.COM
+
+Dates
+
+    Registry Expiration: 2020-09-28 18:40:16 UTC
+    Registrar Expiration: 2020-09-28 18:40:00 UTC
+    Created: 2006-09-28 18:40:16 UTC
+
+Contact Information
+Registrant:
+
+    Mailing Address: CT, US 
+
+Technical:
+
+admin:
+
+Registrar Information
+
+    Name: ENOM, INC.
+    Abuse Contact Email: ABUSE@ENOM.COM
+    Abuse Contact Phone: tel:+1.4259744689 
+
+DNSSEC Information
+
+    Delegation Signed: Unsigned
+
+Authoritative Servers
+
+    Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/bethmorris.com
+    Last updated from Registry RDAP DB: 2020-01-15 06:46:11 UTC
+    Registrar Server URL: https://enom.rdap.tucows.com/domain/BETHMORRIS.COM
+    Last updated from Registrar RDAP DB: 2020-01-15 12:23:24 UTC
+
+-- DOMAIN 2 --
+
+ Domain Information
+
+     Name: quizatklass.com
+    Registry Domain ID: 2096648470_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientDeleteProhibited
+
+    clientRenewProhibited
+
+    clientTransferProhibited
+
+    clientUpdateProhibited
+    Nameservers:
+
+    ns53.domaincontrol.com
+
+    ns54.domaincontrol.com
+
+Dates
+
+    Registry Expiration: 2020-02-09 20:36:59 UTC
+    Registrar Expiration: 2020-02-09 15:36:59 UTC
+    Created: 2017-02-09 20:36:59 UTC
+
+Contact Information
+Registrant:
+
+    Organization: WEBRUN Group Inc
+    Mailing Address: Ontario, Canada 
+
+Technical:
+
+    Organization: WEBRUN Group Inc
+    Mailing Address: Ontario, Canada 
+
+Administrative:
+
+    Organization: WEBRUN Group Inc
+    Mailing Address: Ontario, Canada 
+
+billing:
+
+    Organization: WEBRUN Group Inc
+    Mailing Address: Ontario, Canada 
+
+REDACTED FOR PRIVACY: Some of the data in this object has been removed.
+Registrar Information
+
+    Name: Wild West Domains, LLC
+    IANA ID: 440
+    Abuse Contact Email: abuse@wildwestdomains.com
+    Abuse Contact Phone: tel:480-624-2505 
+
+DNSSEC Information
+
+    Delegation Signed: Unsigned
+
+Authoritative Servers
+
+    Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/quizatklass.com
+    Last updated from Registry RDAP DB: 2020-01-15 06:46:11 UTC
+    Registrar Server URL: https://rdap.secureserver.net/v1/domain/QUIZATKLASS.COM
+    Last updated from Registrar RDAP DB: 2020-01-15 12:24:50 UTC
+
+-- DOMAIN 3 --
+
+ Domain Information
+
+    Name: reddit.com
+    Registry Domain ID: 153584275_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientDeleteProhibited
+
+    clientTransferProhibited
+
+    clientUpdateProhibited
+
+    serverDeleteProhibited
+
+    serverTransferProhibited
+
+    serverUpdateProhibited
+    Nameservers:
+
+    ns-1029.awsdns-00.org
+
+    ns-1887.awsdns-43.co.uk
+
+    ns-378.awsdns-47.com
+
+    ns-557.awsdns-05.net
+
+Dates
+
+    Registry Expiration: 2020-04-29 17:59:19 UTC
+    Registrar Expiration: 2020-04-29 17:59:19 UTC
+    Created: 2005-04-29 17:59:19 UTC
+
+Contact Information
+Registrant:
+
+    Organization: Reddit Inc.
+    Mailing Address: CA, US 
+
+Technical:
+
+    Mailing Address: CA, US 
+
+Administrative:
+
+    Mailing Address: CA, US 
+
+REDACTED FOR PRIVACY: Some of the data in this object has been removed.
+Registrar Information
+
+    Name: MarkMonitor Inc.
+    IANA ID: 292
+    Abuse Contact Email: abusecomplaints@markmonitor.com
+    Abuse Contact Phone: +1.2083895770 
+
+DNSSEC Information
+
+    Delegation Signed: Unsigned
+
+Authoritative Servers
+
+    Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/reddit.com
+    Last updated from Registry RDAP DB: 2020-01-15 06:46:11 UTC
+    Registrar Server URL: https://rdap.markmonitor.com/rdap/domain/REDDIT.COM
+    Last updated from Registrar RDAP DB: 2020-01-15 12:25:49 UTC
+
+-- DOMAIN 4 --
+
+ Domain Information
+
+    Name: youtube.com
+    Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientDeleteProhibited
+
+    clientTransferProhibited
+
+    clientUpdateProhibited
+
+    serverDeleteProhibited
+
+    serverTransferProhibited
+
+    serverUpdateProhibited
+    Nameservers:
+
+    ns1.google.com
+
+    ns2.google.com
+
+    ns3.google.com
+
+    ns4.google.com
+
+Dates
+
+    Registry Expiration: 2021-02-15 05:13:12 UTC
+    Registrar Expiration: 2021-02-14 08:00:00 UTC
+    Created: 2005-02-15 05:13:12 UTC
+
+Contact Information
+Registrant:
+
+    Organization: Google LLC
+    Mailing Address: CA, US 
+
+Technical:
+
+    Mailing Address: CA, US 
+
+Administrative:
+
+    Mailing Address: CA, US 
+
+REDACTED FOR PRIVACY: Some of the data in this object has been removed.
+Registrar Information
+
+    Name: MarkMonitor Inc.
+    IANA ID: 292
+    Abuse Contact Email: abusecomplaints@markmonitor.com
+    Abuse Contact Phone: +1.2083895770 
+
+DNSSEC Information
+
+    Delegation Signed: Unsigned
+
+Authoritative Servers
+
+    Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/youtube.com
+    Last updated from Registry RDAP DB: 2020-01-15 06:45:09 UTC
+    Registrar Server URL: https://rdap.markmonitor.com/rdap/domain/YOUTUBE.COM
+    Last updated from Registrar RDAP DB: 2020-01-15 12:27:57 UTC
+
+-- DOMAIN 5 --
+
+ Domain Information
+
+    Name: GEORGEBROWN.COM
+    Registry Domain ID: 5269176_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientTransferProhibited
+    Nameservers:
+
+    NS41.WORLDNIC.COM
+
+    NS42.WORLDNIC.COM
+
+Dates
+
+    Registry Expiration: 2021-01-10 05:00:00 UTC
+    Created: 1998-01-11 05:00:00 UTC
+
+Registrar Information
+
+    Name: Network Solutions, LLC
+    IANA ID: 2
+    Abuse Contact Email: abuse@web.com
+    Abuse Contact Phone: tel:+1.8003337680 
+
+DNSSEC Information
+
+    Delegation Signed: Unsigned
+
+Authoritative Servers
+
+    Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/georgebrown.com
+    Last updated from Registry RDAP DB: 2020-01-15 06:46:11 UTC
+    Registrar Server URL: https://rdap.networksolutions.com/rdap/domain/GEORGEBROWN.COM 
+

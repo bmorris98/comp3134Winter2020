@@ -1,0 +1,42 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# ping 192.230.81.55
+PING 192.230.81.55 (192.230.81.55) 56(84) bytes of data.
+64 bytes from 192.230.81.55: icmp_seq=1 ttl=57 time=2.68 ms
+64 bytes from 192.230.81.55: icmp_seq=2 ttl=57 time=1.82 ms
+64 bytes from 192.230.81.55: icmp_seq=3 ttl=57 time=1.81 ms
+64 bytes from 192.230.81.55: icmp_seq=4 ttl=57 time=1.94 ms
+64 bytes from 192.230.81.55: icmp_seq=5 ttl=57 time=1.85 ms
+64 bytes from 192.230.81.55: icmp_seq=6 ttl=57 time=1.76 ms
+64 bytes from 192.230.81.55: icmp_seq=7 ttl=57 time=1.85 ms
+64 bytes from 192.230.81.55: icmp_seq=8 ttl=57 time=1.83 ms
+64 bytes from 192.230.81.55: icmp_seq=9 ttl=57 time=1.83 ms
+64 bytes from 192.230.81.55: icmp_seq=10 ttl=57 time=1.80 ms
+64 bytes from 192.230.81.55: icmp_seq=11 ttl=57 time=1.81 ms
+64 bytes from 192.230.81.55: icmp_seq=12 ttl=57 time=1.74 ms
+64 bytes from 192.230.81.55: icmp_seq=13 ttl=57 time=1.80 ms
+64 bytes from 192.230.81.55: icmp_seq=14 ttl=57 time=1.81 ms
+64 bytes from 192.230.81.55: icmp_seq=15 ttl=57 time=1.83 ms
+64 bytes from 192.230.81.55: icmp_seq=16 ttl=57 time=1.77 ms
+64 bytes from 192.230.81.55: icmp_seq=17 ttl=57 time=1.82 ms
+64 bytes from 192.230.81.55: icmp_seq=18 ttl=57 time=1.85 ms
+64 bytes from 192.230.81.55: icmp_seq=19 ttl=57 time=1.83 ms
+64 bytes from 192.230.81.55: icmp_seq=20 ttl=57 time=1.80 ms
+^C
+--- 192.230.81.55 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19035ms
+rtt min/avg/max/mdev = 1.746/1.866/2.684/0.193 ms
+root@lamp-s-1vcpu-1gb-tor1-01:~# ping 192.230.81.55 -w 10
+PING 192.230.81.55 (192.230.81.55) 56(84) bytes of data.
+64 bytes from 192.230.81.55: icmp_seq=1 ttl=57 time=3.08 ms
+64 bytes from 192.230.81.55: icmp_seq=2 ttl=57 time=1.89 ms
+64 bytes from 192.230.81.55: icmp_seq=3 ttl=57 time=1.78 ms
+64 bytes from 192.230.81.55: icmp_seq=4 ttl=57 time=1.81 ms
+64 bytes from 192.230.81.55: icmp_seq=5 ttl=57 time=1.86 ms
+64 bytes from 192.230.81.55: icmp_seq=6 ttl=57 time=1.80 ms
+64 bytes from 192.230.81.55: icmp_seq=7 ttl=57 time=1.77 ms
+64 bytes from 192.230.81.55: icmp_seq=8 ttl=57 time=1.83 ms
+64 bytes from 192.230.81.55: icmp_seq=9 ttl=57 time=1.78 ms
+64 bytes from 192.230.81.55: icmp_seq=10 ttl=57 time=1.80 ms
+
+--- 192.230.81.55 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 1.778/1.945/3.088/0.383 ms

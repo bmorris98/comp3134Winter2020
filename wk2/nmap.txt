@@ -1,0 +1,88 @@
+-- nmap {host_name} --
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap 151.101.20.193
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 17:46 UTC
+Nmap scan report for 151.101.20.193
+Host is up (0.011s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 11.39 seconds
+
+-- nmap -p {port_number}{host_name} --
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 800 17.172.224.47
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 17:47 UTC
+Nmap scan report for expertapple.com (17.172.224.47)
+Host is up (0.024s latency).
+
+PORT    STATE    SERVICE
+800/tcp filtered mdbs_daemon
+
+Nmap done: 1 IP address (1 host up) scanned in 0.58 seconds
+
+-- nmap -p {start_port_range}-{end_port_range}{host_name} --
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 100-400 172.217.11.14
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 17:48 UTC
+Nmap scan report for lga25s60-in-f14.1e100.net (172.217.11.14)
+Host is up (0.016s latency).
+All 301 scanned ports on lga25s60-in-f14.1e100.net (172.217.11.14) are filtered
+
+Nmap done: 1 IP address (1 host up) scanned in 7.57 seconds
+
+-- nmap -F{host_name} --
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -F 192.230.81.55
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 17:49 UTC
+Nmap scan report for 192.230.81.55.ip.incapdns.net (192.230.81.55)
+Host is up (0.0020s latency).
+Not shown: 61 filtered ports
+PORT      STATE SERVICE
+25/tcp    open  smtp
+53/tcp    open  domain
+80/tcp    open  http
+81/tcp    open  hosts2-ns
+88/tcp    open  kerberos-sec
+389/tcp   open  ldap
+443/tcp   open  https
+444/tcp   open  snpp
+445/tcp   open  microsoft-ds
+587/tcp   open  submission
+631/tcp   open  ipp
+990/tcp   open  ftps
+995/tcp   open  pop3s
+1025/tcp  open  NFS-or-IIS
+1028/tcp  open  unknown
+1433/tcp  open  ms-sql-s
+2000/tcp  open  cisco-sccp
+2001/tcp  open  dc
+2049/tcp  open  nfs
+3000/tcp  open  ppp
+3306/tcp  open  mysql
+3389/tcp  open  ms-wbt-server
+5000/tcp  open  upnp
+5009/tcp  open  airport-admin
+5060/tcp  open  sip
+5900/tcp  open  vnc
+6000/tcp  open  X11
+6001/tcp  open  X11:1
+7070/tcp  open  realserver
+8000/tcp  open  http-alt
+8008/tcp  open  http
+8009/tcp  open  ajp13
+8080/tcp  open  http-proxy
+8081/tcp  open  blackice-icecap
+8443/tcp  open  https-alt
+8888/tcp  open  sun-answerbook
+9100/tcp  open  jetdirect
+9999/tcp  open  abyss
+10000/tcp open  snet-sensor-mgmt
+
+Nmap done: 1 IP address (1 host up) scanned in 4.22 seconds
