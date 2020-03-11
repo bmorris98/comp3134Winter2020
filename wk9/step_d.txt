@@ -1,0 +1,10 @@
+
+Warning:  scandir(hello): failed to open dir: No such file or directory in /var/www/html/directory_traversal_part1.php on line 7
+
+
+
+Warning:  scandir(): (errno 2): No such file or directory in /var/www/html/directory_traversal_part1.php on line 7
+
+
+- there's nothing called 'hello'
+- the page is displaying the path which is sensitive

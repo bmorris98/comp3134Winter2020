@@ -1,0 +1,8 @@
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => html
+)
+
+- this one i'm not quite sure
