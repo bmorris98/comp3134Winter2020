@@ -1,0 +1,8 @@
+1) https://www.dictionary.com/browse/cat?s=t
+	- url updated automatically
+2) https://www.dictionary.com/browse/dog
+	- went to dog definition
+3) https://www.dictionary.com/noresult?term=%3Cscript%3Ealert(%27hello%27)%3C%2Fscript%3E&s=t
+	- url updated
+4) https://www.dictionary.com/noresult?term=<script>3Ealert(%27hello%27)%3C</script>
+	- ?
