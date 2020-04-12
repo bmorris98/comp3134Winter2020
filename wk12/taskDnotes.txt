@@ -1,0 +1,9 @@
+document.getElementById("myForm").addEventListener("click", function(event){
+  event.preventDefault()
+  document.getElementById("myDiv").innerText = document.getElementById("text").value
+});
+
+document.getElementById("myForm").addEventListener("click", function(event){
+  event.preventDefault()
+  document.getElementById("myDiv").innerHTML += document.getElementById("text").value
+})
